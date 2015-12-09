@@ -1,0 +1,28 @@
+name: TheGrid
+favicon: null
+layout_spectrum: 0.9538934307638556
+typography_spectrum: 0.4738977171946317
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6983550854492933
+  lightness: 0.06339108920656145
+  saturation: 0.4290084356907755
+  rhythmicContrast: 0.15029839472845197
+purpose: []
